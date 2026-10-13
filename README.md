@@ -1,20 +1,70 @@
-**Hi, I'm Ankit Gaur 👋 🤖 👨‍💻 🇮🇳**
+<h1 align="center">Hi, I'm Ankit Gaur 👋 🇮🇳</h1>
+<h3 align="center">AI/ML & Generative AI Developer | Agents • RAG • MCP • Voice AI</h3>
 
-I'm an AI/ML engineer who is passionate about building intelligent systems with deep learning, generative AI, and RAG architectures. I love creating autonomous AI agents, exploring reinforcement learning algorithms, and bridging the gap between AI and robotics to solve real-world problems.
+<p align="center">
+2 years of experience building production-grade AI systems, from agents and RAG pipelines to voice assistants and document extraction.<br>
+I turn messy real-world problems into AI solutions that are accurate, secure, and cost-efficient.
+</p>
 
-* 🔭 I'm working on projects at the intersection of `AI agents and RAG systems`.
-* 🌱 I'm exploring `reinforcement learning`, `multi-agent systems`, and `robotics with AI`.
-* 🤖 I'm building autonomous agents that can reason, plan, and execute complex tasks.
-* 👯 I'm looking to collaborate on open-source AI projects, MLOps tools, and robotics initiatives.
-* 🤔 I'm always eager to discuss the latest trends in AI agents, RL, and AI-powered robotics.
-* ⚡ Fun fact: I believe the future is autonomous agents working alongside humans!
+### 🔭 What I Do
+- Build **AI agents** and their environments, with guardrails to protect sensitive data
+- Design **context engineering pipelines** so agents get the right context and produce the right output
+- Research the best AI solution for each problem, balancing **quality, latency, and model cost** (open-source vs. third-party APIs)
+- Deploy and run models in production
 
-**My Tech Arsenal 🛠️:**
-* **AI/ML**: PyTorch, TensorFlow, Transformers, Langchain, LlamaIndex
-* **LLM & Agents**: OpenAI API, Ollama, Hugging Face, RAG pipelines, LangGraph, CrewAI
-* **Reinforcement Learning**: Stable-Baselines3, Ray RLlib, OpenAI Gym, Custom RL environments
-* **Robotics**: ROS, Gazebo, MoveIt, OpenCV, Robot Operating System
-* **Backend**: Python, FastAPI, Flask, Docker, Kubernetes
-* **Databases**: Vector DBs (Pinecone, Chroma), MongoDB, PostgreSQL, Redis
-* **Cloud & MLOps**: AWS, GCP, Azure, MLflow, Weights & Biases, Kubernetes
+### 🤖 Agents & Orchestration
+- **Orchestration patterns**: Supervisor, Swarm, Parallel, and Sequential, chosen per use case
+- **Memory & context**: agent skills for passing and reusing context, plus state memory and long-term memory
+- **MCP**: built MCP servers and integrated them with agents, APIs, and external tools
 
+### 📚 RAG
+- **Sequential RAG** and **Agentic RAG**
+- Optimized retrieval with **namespacing**, **hybrid search**, **metadata filtering and sorting**, and **reranking**
+
+### 🧠 ML, Deep Learning & NLP
+- Traditional ML algorithms and different neural network architectures
+- Strong NLP foundations, matching techniques to the use case
+- **Fine-tuning** open-source models based on the use case, plus optimization techniques for speed and cost
+
+### 🎙️ Voice & Document AI
+- **Voice AI**: cascading **STT → LLM → TTS** pipelines
+- **OCR & data extraction** using VLLMs, Azure Machine Learning models, and Tesseract
+
+### ⚙️ Software Engineering
+- **REST APIs**, **webhooks**, **WebRTC**, and CRUD operations designed around the use case
+- **Databases**: vector DBs, MongoDB (with **ODM**), and time-series (**InfluxDB**)
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+### 🌍 Open Source
+I'm eager to contribute to open-source AI development, especially **vLLM**, **Hugging Face**, and other AI/LLM platforms.
+
+### 🤝 Let's Collaborate
+- Open-source work in LLM serving, agents, and RAG tooling
+- Production AI problems that need practical, cost-aware solutions
+- Discussions on agent architectures, context engineering, and MCP
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-gaur-0795a0280/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ankitparashar000@gmail.com)
+
+<p align="center"><i>Always learning, always building. 🚀</i></p>
